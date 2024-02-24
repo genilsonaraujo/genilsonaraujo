@@ -8,6 +8,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](genilsonaraujocti@gmail.com)
 
 ![Genilson GitHub stats](https://github-readme-stats.vercel.app/api?username=genilsonaraujo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genilsonaraujo&hide_progress=true)
 
 <h2>Tecnologias usadas atualmente nos meus projetos de faculdade!</h2>
 <div style="display: inline_block"><br/>
