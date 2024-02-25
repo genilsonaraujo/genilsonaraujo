@@ -1,6 +1,6 @@
 ### Hi There 👋
 <h2>Meu nome é Genilson Araújo!</h2> 
-<p>Sou iniciante no Github e estou aprendendo algumas tecnogias.</p>
+<p>Sou iniciante no Github e estou aprendendo algumas tecnologias.</p>
 <p>Cursando 4° semestre no Curso de Engenharia da Computação!</p>
 <h2>Redes e Contatos</h2>
 
